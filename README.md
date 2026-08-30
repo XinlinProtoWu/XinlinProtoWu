@@ -1,12 +1,12 @@
-# Hi there, I'm Xinlin 👋
+# Hi there, I'm Xinlin 🫃
 
 I'm an Electrical and Computer Engineering student at the Unviersity of Toronto. I am passionate about low-level programming, embedded systems, and linux. Currently expanding my horizons on an academic exchange at the Hong Kong University of Science and Technology!
 
-### 🚀 Quick Stats & Current Focus
-- 🔭 **Currently working on:** A Game Boy Advance emulator in C++
-- 🌱 **Currently exploring:** Operating Systems and Communication Protocols
-- ⚡ **Fun fact:** My first exposure to calculus was through optimizing the stats of my Genshin Impact characters
-- 📫 **How to reach me:** Personal Email: xinlinwu0116@gmail.com | UofT Email: xin.wu@mail.utoronto.ca
+###  Quick Stats & Current Focus
+-  **Currently working on:** A Game Boy Advance emulator in C++
+-  **Currently exploring:** Operating Systems and Communication Protocols
+-  **Fun fact:** My first exposure to calculus was through optimizing the stats of my Genshin Impact characters
+-  **How to reach me:** Personal Email: xinlinwu0116@gmail.com | UofT Email: xin.wu@mail.utoronto.ca
 
 ---
 
