@@ -26,4 +26,4 @@ I'm an Electrical and Computer Engineering student at the Unviersity of Toronto.
 
 ### 📈 GitHub Activity
 <!-- You can add dynamic github stats here using an open-source tool like github-readme-stats. Example below: -->
-!My Github Stats(https://github-readme-stats.vercel.app/api?username=XinlinProtoWu&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XinlinProtoWu&show_icons=true&theme=radical)
