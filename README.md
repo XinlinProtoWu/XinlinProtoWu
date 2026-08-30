@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**XinlinProtoWu/XinlinProtoWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical and Computer Engineering student at the Unviersity of Toronto. I am passionate about low-level programming, embedded systems, and linux. Currently expanding my horizons on an academic exchange at the Hong Kong University of Science and Technology!
 
-Here are some ideas to get you started:
+### 🚀 Quick Stats & Current Focus
+- 🔭 **Currently working on:** A Game Boy Advance emulator in C++
+- 🌱 **Currently exploring:** Operating Systems and Communication Protocols
+- ⚡ **Fun fact:** My first exposure to calculus was through optimizing the stats of my Genshin Impact characters
+- 📫 **How to reach me:** Personal Email: xinlinwu0116@gmail.com | UofT Email: xin.wu@mail.utoronto.ca
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Languages**  
+`C` `C++` `RISC-V Assembly` `Java` `Python`
+
+**Hardware & Systems**  
+`FPGA (DE1-SoC)` `Embedded C` `Digital Signal Processing` `LTspice`
+
+**Tools & Infrastructure**  
+`Git` `Make/CMake` `cURL`
+
+**My Daily Driver Environment**  
+`Arch Linux` `Hyprland` `Neovim (LazyVim)` `Tmux` `Kitty` `Fish Shell`
+
+---
+
+### 📈 GitHub Activity
+<!-- You can add dynamic github stats here using an open-source tool like github-readme-stats. Example below: -->
+!My Github Stats(https://github-readme-stats.vercel.app/api?username=XinlinProtoWu&show_icons=true&theme=radical)
