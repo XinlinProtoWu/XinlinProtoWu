@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Xinlin 👋
 
 I'm an Electrical and Computer Engineering student at the Unviersity of Toronto. I am passionate about low-level programming, embedded systems, and linux. Currently expanding my horizons on an academic exchange at the Hong Kong University of Science and Technology!
 
@@ -26,4 +26,4 @@ I'm an Electrical and Computer Engineering student at the Unviersity of Toronto.
 
 ### 📈 GitHub Activity
 <!-- You can add dynamic github stats here using an open-source tool like github-readme-stats. Example below: -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XinlinProtoWu&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=XinlinProtoWu&theme=radical&hide_border=true)
